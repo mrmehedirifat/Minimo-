@@ -1,0 +1,23 @@
+psd to html
+
+  font
+      playfair display/italic
+      playfair display/regular
+      playfair display/balck
+      
+
+      font-family: 'Playfair Display', serif;
+      font-family: 'Ubuntu', sans-serif;
+
+
+  color
+      black       #000000
+      ash         #626262
+      unknown     #b4ad9e
+
+
+
+all devices
+      xxl xl lg : 100-120
+      md        : 80-100
+      sm exsm   : 50-70
